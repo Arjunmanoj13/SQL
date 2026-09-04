@@ -17,4 +17,12 @@
 | [1683-invalid-tweets](https://github.com/Arjunmanoj13/SQL/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Arjunmanoj13/SQL/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Arjunmanoj13/SQL/tree/master/1729-find-followers-count) |
+## Array
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Arjunmanoj13/SQL/tree/master/3903-smallest-stable-index-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Arjunmanoj13/SQL/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
