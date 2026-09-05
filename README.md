@@ -21,8 +21,10 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Arjunmanoj13/SQL/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Arjunmanoj13/SQL/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Arjunmanoj13/SQL/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Arjunmanoj13/SQL/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
